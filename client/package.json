@@ -1,0 +1,26 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xingfuyumin/xmzhou-explorer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xingfuyumin/xmzhou-explorer/issues"
+  },
+  "homepage": "https://github.com/xingfuyumin/xmzhou-explorer#readme",
+  "dependencies": {
+    "electron": "^13.2.2"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-plugin-react": "^7.24.0"
+  }
+}
