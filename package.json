@@ -1,0 +1,24 @@
+{
+  "name": "xmzhou-explorer",
+  "version": "1.0.0",
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "src/main.js",
+  "dependencies": {
+    "electron-log": "4.4.1",
+    "eslint": "^7.32.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xingfuyumin/xmzhou-explorer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xingfuyumin/xmzhou-explorer/issues"
+  },
+  "homepage": "https://github.com/xingfuyumin/xmzhou-explorer#readme"
+}
