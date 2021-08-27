@@ -1,11 +1,10 @@
-// .eslintrc.js 
 module.exports = {
   "extends": "airbnb",
   "rules": {
     "semi": [2, "never"],
     "no-console": 0,
     "comma-dangle": [2, "always-multiline"],
-    "max-len": 0,
+    "max-len": 100,
     "react/jsx-first-prop-new-line": 0,
     "react/jsx-filename-extension": 0,
     "space-before-function-paren": [2, "always"],
